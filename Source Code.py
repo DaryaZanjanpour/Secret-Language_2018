@@ -6,7 +6,7 @@ def split(word):
     return [char for char in word]
     
 # Driver code 
-word = 'sometimes words cannot express my feeling for you '
+word = 'HELLO WORLD! '
 
 print(split(word))
 
